@@ -1,8 +1,7 @@
 #include <stdio.h>
 /**
   * main - mian entry point
-  * return always zero
-  * return : always 0 (success)
+  * Return: always 0 (success)
 */
 #include <stdlib.h>
 int main(void)
